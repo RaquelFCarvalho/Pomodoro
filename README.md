@@ -9,3 +9,5 @@ O Pomodoro é um método de gerenciamento de tempo criado e desenvolvido por Fra
 
 . [Introduçao](https://github.com/RaquelFCarvalho/Pomodoro/blob/main/Indrotu%C3%A7ao.md)
 
+. [Referência](https://github.com/RaquelFCarvalho/Pomodoro/blob/main/Referencia.md)
+
